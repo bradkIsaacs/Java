@@ -1,39 +1,21 @@
-drew: 5
+drew: 2
 discarded: 2
-hand: [1, 4, 6, 5]
-drew: 3
+hand: [3, 6, 5, 1]
+drew: 5
 discarded: 3
-hand: [1, 4, 6, 5]
-drew: 0
-discarded: 0
-hand: [1, 4, 6, 5]
-drew: 7
-discarded: 7
-hand: [1, 4, 6, 5]
-drew: 7
-discarded: 7
-hand: [1, 4, 6, 5]
-drew: 0
-discarded: 0
-hand: [1, 4, 6, 5]
-drew: 7
-discarded: 7
-hand: [1, 4, 6, 5]
-drew: 4
-discarded: 1
-hand: [4, 6, 5, 4]
-drew: 1
-discarded: 1
-hand: [4, 6, 5, 4]
-drew: 7
-discarded: 7
-hand: [4, 6, 5, 4]
+hand: [6, 5, 1, 5]
 drew: 4
 discarded: 6
-hand: [4, 5, 4, 4]
+hand: [5, 1, 5, 4]
+drew: 3
+discarded: 3
+hand: [5, 1, 5, 4]
+drew: 5
+discarded: 1
+hand: [5, 5, 4, 5]
 drew: 4
 discarded: 5
-hand: [4, 4, 4, 4]
-Win yes
-Hand: [4, 4, 4, 4]
-Drawpile: [6, 6, 6, 6]
+hand: [5, 4, 5, 4]
+drew: 7
+discarded: 7
+hand: [5, 4, 5, 4]

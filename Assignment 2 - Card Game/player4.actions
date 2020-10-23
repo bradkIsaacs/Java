@@ -1,33 +1,21 @@
-drew: 2
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 4
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 0
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 4
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 2
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 3
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 0
-discarded: 6
-hand: [6, 5, 5, 1]
-drew: 7
-discarded: 5
-hand: [6, 5, 1, 7]
-drew: 7
-discarded: 5
-hand: [6, 1, 7, 7]
-drew: 0
-discarded: 6
-hand: [6, 1, 7, 7]
-drew: 7
+drew: 5
 discarded: 1
-hand: [6, 7, 7, 7]
+hand: [1, 6, 5, 5]
+drew: 1
+discarded: 1
+hand: [1, 6, 5, 5]
+drew: 3
+discarded: 1
+hand: [1, 6, 5, 5]
+drew: 5
+discarded: 1
+hand: [1, 6, 5, 5]
+drew: 2
+discarded: 1
+hand: [1, 6, 5, 5]
+drew: 3
+discarded: 1
+hand: [1, 6, 5, 5]
+drew: 6
+discarded: 1
+hand: [6, 5, 5, 6]
